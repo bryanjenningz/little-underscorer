@@ -1,0 +1,15 @@
+#app {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#terminal {
+  font-family: cursor, courier;
+  font-weight: bold;
+  color: #1EA509;
+  width: 600px;
+  height: 400px;
+  margin: 0 auto;
+  background-color: black;
+}
